@@ -3,6 +3,9 @@
 ## Project Overview
 Welcome to my Cloud Resume Challenge - AWS Edition project! This repository showcases my proficiency in AWS, web development, and best practices by addressing a real-world scenario. As you review this project, you'll find evidence of my hands-on experience in AWS services, infrastructure as code, and continuous integration and deployment (CI/CD) methodologies.
 
+## AWS Architectural Diagram
+Explore the [AWS architectural diagram](/diagram/placeholder.png) to visualize the components and interactions of the project.
+
 ## Project Structure
 
 - **`/html`**: Contains the HTML code for my interactive and visually appealing resume.
@@ -22,9 +25,6 @@ Welcome to my Cloud Resume Challenge - AWS Edition project! This repository show
 4. **Infrastructure as Code (IaC)**: Employed AWS SAM for defining and deploying infrastructure, streamlining management and promoting consistency.
 
 5. **Visitor Counter and API**: Integrated a dynamic visitor counter on my resume webpage, powered by a serverless API communicating with a DynamoDB database.
-
-## AWS Architectural Diagram
-Explore the [AWS architectural diagram](/diagram/placeholder.png) to visualize the components and interactions of the project.
 
 ## Blog Post
 For a deeper dive into the insights and lessons learned during this project, check out my [blog post](link-to-blog-post). The post is published on [Dev.to](https://dev.to/) (or [Hashnode](https://hashnode.com/)).
